@@ -1,0 +1,36 @@
+hr {
+  margin: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: aqua;
+}
+
+a:hover {
+  color: green;
+}
+
+a:visited {
+  color: black;
+}
+
+.part-5 {
+  margin-top: 20px;
+}
+
+.my-list li:nth-child(2) {
+  font-style: italic;
+}
+
+.my-list li:nth-child(3) {
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#keith {
+  width: 200px;
+}
