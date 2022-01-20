@@ -49,6 +49,7 @@ a:visited {
 .wrapper div {
   padding: 1em;
   background-color: grey;
+  border-radius: 15px;
 }
 
 .wrapper div:nth-child(even) {
